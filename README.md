@@ -35,12 +35,15 @@ Because the simulation includes randomness, results vary on each run.
 The simulation is interactive; users select options to view standings, league stats, or team stats. They may also choose to sort the table by category
 
 User chooses to view league standings:
+
 <img width="588" height="153" alt="Screenshot 2026-01-02 120415" src="https://github.com/user-attachments/assets/f055b895-e35c-4f87-a4e9-966e7eb2d3c8" />
 
 User chooses to view league statistics:
+
 <img width="454" height="699" alt="Screenshot 2026-01-02 120435" src="https://github.com/user-attachments/assets/4f7cac85-3a54-4ddc-acb1-66f856b0ab99" />
 
 User chooses to view individual team statistics:
+
 <img width="424" height="106" alt="Screenshot 2026-01-02 120450" src="https://github.com/user-attachments/assets/799a4abb-202c-41fb-a127-97433b0d0e16" />
 
 
